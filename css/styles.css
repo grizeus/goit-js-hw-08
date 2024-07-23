@@ -20,6 +20,7 @@ ol {
   flex-wrap: wrap;
   gap: 24px;
   width: 1440px;
+  margin: 0 auto;
 }
 
 .gallery-item {
@@ -30,7 +31,7 @@ ol {
 }
 
 .gallery-item:hover {
-    scale: 104%;
+  scale: 104%;
 }
 
 .gallery-image {
